@@ -1,0 +1,9 @@
+# Resource binary files
+/HFS/*
+
+# Privoxy
+/privoxy-3.0.26/*
+
+# Python runtime
+/python-3.7.2.post1-embed-win32/*
+/python-3.7.2.post1-embed-amd64/*
