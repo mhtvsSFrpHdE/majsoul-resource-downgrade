@@ -19,8 +19,5 @@ Under the repository root folder:
 - in Privoxy, edit config to filter HTTP target URL and all HTTPS to James if the game is HTTPS.
 
 **Known issue**  
-James will follow system proxy config, when you connected to a VPN,
-James not use VPN but route its traffic throught the HTTP proxy if exist.  
-
 Privoxy doesn't do HTTPS URL filter, so all HTTPS traffic have to route to James.
-When this behavior act with James, you have to let James access target website directly.
+When this behavior act with James, you have to let James access target website directly.  
