@@ -1,5 +1,6 @@
 # majsoul-resource-downgrade
-Yet another html game resource replace tool chain.  
+**Contact**  
+See https://github.com/mhtvsSFrpHdE/contact-me  
 
 **Why yet another? We have Shimakaze Go, PEROist, etc**  
 Running completely China code on my machine is not a option(even if open source).  
