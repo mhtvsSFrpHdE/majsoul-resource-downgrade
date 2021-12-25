@@ -1,7 +1,6 @@
-# majsoul-resource-downgrade
-**Contact**  
-See https://github.com/mhtvsSFrpHdE/contact-me  
+![](https://raw.githubusercontent.com/mhtvsSFrpHdE/contact-me/master/AboutIssue.svg)
 
+# majsoul-resource-downgrade
 **Why yet another? We have Shimakaze Go, PEROist, etc**  
 Running completely China code on my machine is not a option(even if open source).  
 I wonder if there is a open source, tool chain based workapproch to implement this.  
